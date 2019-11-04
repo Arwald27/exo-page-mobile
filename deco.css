@@ -1,0 +1,15 @@
+.text{
+    text-transform: justify;
+    padding: 20px;
+}
+
+.image{
+    align-items;: center;
+    justify-items: center;
+    width: 1000px;
+}
+
+.video{
+    align-items: center;
+    justify-items;: center;
+}
